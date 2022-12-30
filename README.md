@@ -1,4 +1,4 @@
-# speaker-recognition
+# Speaker Identification by Soumya Manjeti,Vinod Chandra,Zoya Mehak
 Context 
 
 Speaker Recognition has always been a cool part to work on in AI.
